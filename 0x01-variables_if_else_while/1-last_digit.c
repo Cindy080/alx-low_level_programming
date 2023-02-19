@@ -1,6 +1,6 @@
 1 - last_digit.c
 
-#include <stdlib.h>
+#include <stddef.h>
 #include <time.h>
 #include <stdio.h>
 
