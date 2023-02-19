@@ -1,5 +1,3 @@
-1 - last_digit.c
-
 #include <stddef.h>
 #include <time.h>
 #include <stdio.h>
