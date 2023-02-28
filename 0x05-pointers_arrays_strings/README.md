@@ -1,0 +1,1 @@
+printers array strings
